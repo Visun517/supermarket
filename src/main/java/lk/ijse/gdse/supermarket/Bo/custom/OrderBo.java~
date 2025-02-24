@@ -1,0 +1,2 @@
+package lk.ijse.gdse.supermarket.Bo.custom;public interface OrderBo {
+}
